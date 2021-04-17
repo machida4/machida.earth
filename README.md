@@ -1,2 +1,4 @@
-# machida.earth
-[machida.earth](https://machida.earth)
+# machida.github.io
+[https://machida.earth](https://machida.earth)
+
+# repo
